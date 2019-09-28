@@ -19,3 +19,6 @@ https://stackoverflow.com/questions/517127/how-do-i-write-output-in-same-place-o
     dam= random.rand(30,50)/ 5
 ```    
          
+### Whatsapp
+
+[https://web.whatsapp.com]
